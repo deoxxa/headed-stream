@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/deoxxa/headed-stream",
   "dependencies": {
-    "bl": "^0.8.0"
+    "bl": "^0.8.0",
+    "readable-stream": "^1.0.26-4"
   }
 }
