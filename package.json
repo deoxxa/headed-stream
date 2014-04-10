@@ -1,6 +1,6 @@
 {
   "name": "headed-stream",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A stream with a header! Yay!",
   "main": "index.js",
   "repository": {
