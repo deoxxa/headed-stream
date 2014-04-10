@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/deoxxa/headed-stream/issues"
   },
-  "homepage": "https://github.com/deoxxa/headed-stream"
+  "homepage": "https://github.com/deoxxa/headed-stream",
+  "dependencies": {
+    "bl": "^0.8.0"
+  }
 }
