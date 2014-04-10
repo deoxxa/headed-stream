@@ -1,0 +1,20 @@
+{
+  "name": "headed-stream",
+  "version": "0.0.0",
+  "description": "A stream with a header! Yay!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/headed-stream.git"
+  },
+  "keywords": [
+    "header",
+    "stream"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/deoxxa/headed-stream/issues"
+  },
+  "homepage": "https://github.com/deoxxa/headed-stream"
+}
